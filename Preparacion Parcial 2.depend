@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1529776988 source:c:\users\liliana\desktop\preparacion parcial2\abm.c
+
+1526572380 source:c:\users\liliana\desktop\preparacion parcial2\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1526572717 c:\users\liliana\desktop\preparacion parcial2\getsvalids.h
+
+1529778166 source:c:\users\liliana\desktop\preparacion parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1529778032 source:c:\users\liliana\desktop\preparacion parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529776569 c:\users\liliana\desktop\preparacion parcial2\arraylist.h
+
+1529778914 source:c:\users\liliana\desktop\preparacion parcial2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"getsValids.h"
+
+1529778186 c:\users\liliana\desktop\preparacion parcial2\menu.h
+
